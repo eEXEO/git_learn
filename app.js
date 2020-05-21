@@ -1,3 +1,3 @@
 JS APP
 landing script
-logowanie methods
+logowanie methods //improved
