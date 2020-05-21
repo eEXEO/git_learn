@@ -1,1 +1,2 @@
 JS APP
+logowanie methods
